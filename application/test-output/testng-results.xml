@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="16697" started-at="2020-08-06T18:14:04 IST" finished-at="2020-08-06T18:14:21 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="16697" started-at="2020-08-06T18:14:04 IST" finished-at="2020-08-06T18:14:21 IST">
+      <class name="com.test.application.LaunchApp">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.test.application.LaunchApp@6737fd8f]" name="beforeTest" is-config="true" duration-ms="8663" started-at="2020-08-06T18:14:04 IST" finished-at="2020-08-06T18:14:13 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="f()[pri:0, instance:com.test.application.LaunchApp@6737fd8f]" name="f" duration-ms="7254" started-at="2020-08-06T18:14:13 IST" finished-at="2020-08-06T18:14:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.test.application.LaunchApp@6737fd8f]" name="afterTest" is-config="true" duration-ms="721" started-at="2020-08-06T18:14:20 IST" finished-at="2020-08-06T18:14:21 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.test.application.LaunchApp -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
