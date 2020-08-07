@@ -25,7 +25,7 @@ public class LaunchApp {
 			Thread.sleep(2000);
 			driver.findElement(By.partialLinkText("Tutorial")).click();
 			Thread.sleep(2000);
-			System.out.println( "---WelCome ---" + driver.getTitle() );
+			System.out.println( "---WelCome To All---" + driver.getTitle() );
 		}
 
 		catch (Exception e) {
