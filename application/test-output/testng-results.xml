@@ -2,26 +2,26 @@
 <testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="5984" started-at="2020-08-07T09:43:07 IST" finished-at="2020-08-07T09:43:13 IST">
+  <suite name="Suite" duration-ms="6394" started-at="2020-08-07T10:19:43 IST" finished-at="2020-08-07T10:19:50 IST">
     <groups>
     </groups>
-    <test name="Test" duration-ms="5984" started-at="2020-08-07T09:43:07 IST" finished-at="2020-08-07T09:43:13 IST">
+    <test name="Test" duration-ms="6394" started-at="2020-08-07T10:19:43 IST" finished-at="2020-08-07T10:19:50 IST">
       <class name="com.test.application.CaptureData">
-        <test-method status="PASS" signature="f1()[pri:0, instance:com.test.application.CaptureData@a7e666]" name="f1" duration-ms="105" started-at="2020-08-07T09:43:13 IST" finished-at="2020-08-07T09:43:13 IST">
+        <test-method status="PASS" signature="f1()[pri:0, instance:com.test.application.CaptureData@a7e666]" name="f1" duration-ms="130" started-at="2020-08-07T10:19:49 IST" finished-at="2020-08-07T10:19:50 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- f1 -->
       </class> <!-- com.test.application.CaptureData -->
       <class name="com.test.application.LaunchApp">
-        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.test.application.LaunchApp@72b6cbcc]" name="beforeTest" is-config="true" duration-ms="4750" started-at="2020-08-07T09:43:02 IST" finished-at="2020-08-07T09:43:07 IST">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.test.application.LaunchApp@72b6cbcc]" name="beforeTest" is-config="true" duration-ms="6406" started-at="2020-08-07T10:19:37 IST" finished-at="2020-08-07T10:19:43 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeTest -->
-        <test-method status="PASS" signature="f()[pri:0, instance:com.test.application.LaunchApp@72b6cbcc]" name="f" duration-ms="5837" started-at="2020-08-07T09:43:07 IST" finished-at="2020-08-07T09:43:13 IST">
+        <test-method status="PASS" signature="f()[pri:0, instance:com.test.application.LaunchApp@72b6cbcc]" name="f" duration-ms="6129" started-at="2020-08-07T10:19:43 IST" finished-at="2020-08-07T10:19:49 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- f -->
-        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.test.application.LaunchApp@72b6cbcc]" name="afterTest" is-config="true" duration-ms="638" started-at="2020-08-07T09:43:13 IST" finished-at="2020-08-07T09:43:14 IST">
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.test.application.LaunchApp@72b6cbcc]" name="afterTest" is-config="true" duration-ms="752" started-at="2020-08-07T10:19:50 IST" finished-at="2020-08-07T10:19:51 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterTest -->
