@@ -5,6 +5,7 @@
     <classes>
       <class name="com.test.application.LaunchApp"/>
       <class name="com.test.application.CaptureData"/>
+    <class name="com.test.application.CaptureData2"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
