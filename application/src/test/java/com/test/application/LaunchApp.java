@@ -25,11 +25,7 @@ public class LaunchApp {
 			Thread.sleep(2000);
 			driver.findElement(By.partialLinkText("Tutorial")).click();
 			Thread.sleep(2000);
-<<<<<<< HEAD
-			System.out.println( "---WelCome To All and Good To see ---" + driver.getTitle() );
-=======
 			System.out.println( "---WelCome To All and Good To see * ---" + driver.getTitle() );
->>>>>>> branch 'master' of https://github.com/Parth23571/AugE2E2020R
 		}
 
 		catch (Exception e) {
